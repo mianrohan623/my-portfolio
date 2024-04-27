@@ -1,0 +1,10 @@
+:root {
+    /* font family */
+    --font-family: sans-serif;
+    /* color */
+    --theme-bg-color: black;
+    --theme-color: white;
+    --red: red;
+    --header-bg:rgba(0, 0, 0, 0.646);
+    --footer-bg:rgb(20, 20, 20);
+}
